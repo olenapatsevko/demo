@@ -1,0 +1,18 @@
+{
+  "posts": [
+    { "id": 1, "message": "Post 1", "name": "Name 1", "numberOfLikes":34, "datetime": "01:11", "photoUrl": "https://images.unsplash.com/photo-1494548162494-384bba4ab999?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2000&q=80"},
+    
+    { "id": 2, "message": "Post 2" , "name": "Name 2","numberOfLikes": 45, "datetime": "12:44", "photoUrl": "https://blog-assets.shawacademy.com/uploads/2016/02/Cooked-food.jpg" },
+    
+    { "id": 3, "message": "Post 3" , "name": "Name 3", "numberOfLikes": 44, "datetime": "16.23", "photoUrl": "https://blog-assets.shawacademy.com/uploads/2016/02/Cooked-food.jpg" }
+  ],
+  
+
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
